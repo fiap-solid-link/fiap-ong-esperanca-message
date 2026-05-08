@@ -7,6 +7,6 @@ public record DoacaoRecebida(
     Guid IdCampanha,
     Guid IdDoador,
     decimal Valor,
-    string IdempotencyKey,
-    DateTime OcorridoEm) : IEventMessage;
+    DateTime DataIntencao,
+    Guid IdempotencyKey) : IEventMessage;
 
