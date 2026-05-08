@@ -10,13 +10,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Esperanca.Message")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FIAP SolidLink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Comandos e eventos do domínio OngEsperança para integração entre serviços.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfc22447341e925b447662d06ff1ebf29629aadd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dcb9a91cd25dd1de190f43b302c62a3bb87d4c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Esperanca.Message")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Esperanca.Message")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/fiap-solid-link/fiap-ong-esperanca-message")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
