@@ -8,26 +8,25 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\babia\\.nuget\\packages\\": {}
+    "C:\\Users\\barbara.pacheco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\fiap-ong-esperanca-message\\src\\Esperanca.Message\\Esperanca.Message.csproj",
+      "projectUniqueName": "C:\\Users\\barbara.pacheco\\Documents\\fiap\\fiap-ong-esperanca-message\\src\\Esperanca.Message\\Esperanca.Message.csproj",
       "projectName": "Esperanca.Message",
-      "projectPath": "C:\\Projetos\\fiap-ong-esperanca-message\\src\\Esperanca.Message\\Esperanca.Message.csproj",
-      "packagesPath": "C:\\Users\\babia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\fiap-ong-esperanca-message\\src\\Esperanca.Message\\obj\\",
+      "projectPath": "C:\\Users\\barbara.pacheco\\Documents\\fiap\\fiap-ong-esperanca-message\\src\\Esperanca.Message\\Esperanca.Message.csproj",
+      "packagesPath": "C:\\Users\\barbara.pacheco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\barbara.pacheco\\Documents\\fiap\\fiap-ong-esperanca-message\\src\\Esperanca.Message\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\babia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\barbara.pacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://artifactory.softplan.com.br/artifactory/api/nuget/v3/nuget-local": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

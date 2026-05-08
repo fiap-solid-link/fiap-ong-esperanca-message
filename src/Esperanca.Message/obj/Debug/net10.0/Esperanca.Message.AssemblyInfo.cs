@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Esperanca.Message")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3867202b01d4d7f5967f7b6fea3c82a68bf85ad5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfc22447341e925b447662d06ff1ebf29629aadd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Esperanca.Message")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Esperanca.Message")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
