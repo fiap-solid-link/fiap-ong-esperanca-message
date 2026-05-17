@@ -1,6 +1,8 @@
 ## .NET
-bin/
-obj/
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
 *.user
 *.suo
 *.userosscache
@@ -9,11 +11,27 @@ obj/
 *.exe
 *.pdb
 
+## Build / Test
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+coverage.opencover.xml
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
 ## IDE
 .vs/
 .vscode/
 .idea/
 *.swp
+
+## Docker
+docker/
 
 ## OS
 Thumbs.db

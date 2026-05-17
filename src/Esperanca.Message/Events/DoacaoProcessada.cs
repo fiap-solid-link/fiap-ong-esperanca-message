@@ -6,4 +6,5 @@ public record DoacaoProcessadaEvent(
     Guid IdDoacao,
     Guid IdCampanha,
     decimal Valor,
+    decimal ValorTotalArrecadado,
     DateTime DataProcessamento) : IEventMessage;
